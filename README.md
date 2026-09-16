@@ -72,4 +72,4 @@ Because this is a standard static client-side single-page application (SPA), it 
 Your cloud database is already highly secured by the `firestore.rules` deployed on your Firebase account. 
 - Only whitelisted administrators (`rkmishraratnesh@gmail.com`, `ratnesh2282@gmail.com`, `info@statvioninfotech.in`) can log in and successfully read/write to `leads`, `career_applications`, or `page_visits`.
 - Anyone else signing in will trigger an "Unauthorized Access" refusal and the connection to Firestore will be automatically blocked.
-okk
+okk2
